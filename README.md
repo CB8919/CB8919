@@ -1,22 +1,30 @@
-##  Sobre mí
+# ¡Hola! Soy Christian 👋
 
-Soy estudiante de Análisis de Sistemas con enfoque en comprender cómo funcionan los sistemas reales, no solo programarlos.
+Soy estudiante de Análisis de Sistemas interesado en entender el ciclo completo de un sistema: desde el relevamiento de requerimientos y el análisis funcional hasta el desarrollo, las pruebas y la mejora continua.
 
-Vengo del mundo de logística en entornos exigentes, lo que me dio:
-- Pensamiento estructurado
-- Resolución de problemas
-- Trabajo bajo presión
+Antes de iniciar mi carrera en tecnología trabajé más de 10 años en logística, desarrollando habilidades para resolver problemas, trabajar bajo presión y seguir procesos en entornos de alta demanda.
+## Tecnologías
 
-##  En qué me enfoco
+- Java
+- Python
+- JavaScript
+- Spring Boot
+- MySQL
+- Cypress
+- Postman
+- Git & GitHub
+
+## Áreas de interés
 
 - Análisis funcional
-- Testing (E2E + APIs)
+- QA Automation (E2E y APIs)
 - Desarrollo backend
+- Gestión de proyectos de software
 
 ##  Proyectos destacados
 
 🔹 Sistema de adopción de mascotas  
-Gestión completa de usuarios, solicitudes y seguimiento  
+Análisis funcional, documentación, gestión de usuarios, solicitudes y seguimiento.
 
 
 🔹 QA Automation con Cypress  
@@ -29,7 +37,4 @@ Simulación de sistema orientado a usuario
 
 ##  Objetivo
 
-Mi objetivo es insertarme en IT en roles como:
-- Analista funcional junior
-- QA tester
-- Soporte técnico con visión de sistemas
+Busco mi primera oportunidad en IT en áreas como análisis funcional, QA, desarrollo backend o soporte técnico, donde pueda seguir aprendiendo y aportar una visión integral de sistemas.
