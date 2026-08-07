@@ -1,4 +1,4 @@
-# ¡Hola! Soy Christian 👋
+# ¡Hola! Soy Christian
 
 **Estudiante de Análisis de Sistemas | Backend | QA Automation | Análisis Funcional**
 
@@ -25,6 +25,11 @@ Antes de iniciar mi carrera en tecnología trabajé más de 10 años en logísti
 
 ##  Proyectos destacados
 
+🔹 TallerCore — Sistema de gestión para talleres mecánicos
+Backend completo con Java 21, Spring Boot, JWT, RBAC y MySQL.
+Arquitectura multicapa, seguridad stateless y rate limiting.
+Código disponible para revisión técnica bajo solicitud.
+
 🔹 Sistema de adopción de mascotas  
 Análisis funcional, documentación, gestión de usuarios, solicitudes y seguimiento.
 
@@ -39,4 +44,7 @@ Simulación de sistema orientado a usuario
 
 ##  Objetivo
 
-Busco mi primera oportunidad en IT en áreas como análisis funcional, QA, desarrollo backend o soporte técnico, donde pueda seguir aprendiendo y aportar una visión integral de sistemas.
+Busco mi primera oportunidad como Analista de Sistemas, donde pueda 
+aplicar el ciclo completo de un sistema: relevamiento, análisis funcional, 
+diseño y seguimiento de implementación. TallerCore es un ejemplo concreto 
+de ese proceso aplicado a un problema real.
