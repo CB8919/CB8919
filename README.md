@@ -2,7 +2,7 @@
 
 **Estudiante de Análisis de Sistemas | Backend | QA Automation | Análisis Funcional**
 
-🌐 Portfolio: https://chrisb-dev.vercel.app | 💼 LinkedIn: https://www.linkedin.com/in/christianbordon-dev/ | 💻 GitHub: https://github.com/CB8919
+<p align="left"> <a href="https://chrisb-dev.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a> <a href="https://www.linkedin.com/in/christianbordon-dev/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:TU_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
 
 Me interesa comprender el ciclo completo de un sistema, desde el relevamiento de requerimientos y el análisis funcional hasta el desarrollo, las pruebas y la mejora continua.
 
